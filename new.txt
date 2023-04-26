@@ -1,0 +1,4 @@
+An Oleg Romanovich
+Age - 35
+Animals - 2
+Salary - 5000$
