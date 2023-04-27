@@ -64,7 +64,7 @@
 ```
 
  12. Сделать коммит в одну строку.  
-`git commit -am "skills"`
+ `git add . && git commit -am "skills"`
 
  13. Отправить сразу 2 файла на внешний репозиторий.  
 `git push`
